@@ -1,0 +1,27 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url(images/image_de_fond.png);
+}
+
+.Logo {
+    margin-left: 825px;
+    margin-right: 820px;
+    margin-top: 250px;
+}
+
+ul {
+    margin-left: 1200px;
+    margin-top: 20px;
+    margin-right: 0px;
+    display: inherit;
+}
+
+li {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    list-style: none;
+    margin-left: 60px;
+}
